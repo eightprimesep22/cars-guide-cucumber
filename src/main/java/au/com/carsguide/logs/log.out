@@ -1,0 +1,76 @@
+2022-12-28 15:12:226 INFO  ManageBrowser :32 - launching chrome browser
+2022-12-28 15:12:540 INFO  HomePage :37 - verifying homepage url.
+2022-12-28 15:12:750 INFO  HomePage :46 - hover mouse to menu bar.
+2022-12-28 15:12:89 INFO  HomePage :58 - hover to submenu and click on element.
+2022-12-28 15:12:54 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars For Sale'
+2022-12-28 15:12:139 INFO  SearchCarsPage :53 - select make: 'Holden'
+2022-12-28 15:12:348 INFO  SearchCarsPage :58 - select model: 'Trax'
+2022-12-28 15:12:416 INFO  SearchCarsPage :63 - select location: 'SA - All'
+2022-12-28 15:12:491 INFO  SearchCarsPage :68 - select priceTo: '20000'
+2022-12-28 15:12:375 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2022-12-28 15:12:426 INFO  SearchCarsResultPage :42 - actual result: '22 used holden traxs for sale under $20,000 in sa'
+2022-12-28 15:12:426 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Holden'
+2022-12-28 15:12:157 INFO  ManageBrowser :32 - launching chrome browser
+2022-12-28 15:12:890 INFO  HomePage :37 - verifying homepage url.
+2022-12-28 15:12:69 INFO  HomePage :46 - hover mouse to menu bar.
+2022-12-28 15:12:336 INFO  HomePage :58 - hover to submenu and click on element.
+2022-12-28 15:12:382 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars For Sale'
+2022-12-28 15:12:474 INFO  SearchCarsPage :53 - select make: 'Kia'
+2022-12-28 15:12:604 INFO  SearchCarsPage :58 - select model: 'Stinger'
+2022-12-28 15:12:682 INFO  SearchCarsPage :63 - select location: 'WA - All'
+2022-12-28 15:12:772 INFO  SearchCarsPage :68 - select priceTo: '30000'
+2022-12-28 15:12:572 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2022-12-28 15:12:747 INFO  SearchCarsResultPage :33 - Verifying make - actual displayed: 'kia'
+2022-12-28 15:12:748 INFO  SearchCarsResultPage :35 - verifying search results of make from data set: 'Kia'
+2022-12-28 15:12:782 INFO  SearchCarsResultPage :33 - Verifying make - actual displayed: 'kia'
+2022-12-28 15:12:782 INFO  SearchCarsResultPage :35 - verifying search results of make from data set: 'Kia'
+2022-12-28 15:12:638 INFO  ManageBrowser :32 - launching chrome browser
+2022-12-28 15:12:25 INFO  HomePage :37 - verifying homepage url.
+2022-12-28 15:12:184 INFO  HomePage :46 - hover mouse to menu bar.
+2022-12-28 15:12:260 INFO  HomePage :58 - hover to submenu and click on element.
+2022-12-28 15:12:348 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars For Sale'
+2022-12-28 15:12:460 INFO  SearchCarsPage :53 - select make: 'Fiat'
+2022-12-28 15:12:722 INFO  SearchCarsPage :58 - select model: 'Punto'
+2022-12-28 15:12:820 INFO  SearchCarsPage :63 - select location: 'WA - Perth'
+2022-12-28 15:12:894 INFO  SearchCarsPage :68 - select priceTo: '40000'
+2022-12-28 15:12:661 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2022-12-28 15:12:784 INFO  SearchCarsResultPage :33 - Verifying make - actual displayed: 'fiat'
+2022-12-28 15:12:784 INFO  SearchCarsResultPage :35 - verifying search results of make from data set: 'Fiat'
+2022-12-28 15:12:858 INFO  SearchCarsResultPage :33 - Verifying make - actual displayed: 'fiat'
+2022-12-28 15:12:858 INFO  SearchCarsResultPage :35 - verifying search results of make from data set: 'Fiat'
+2022-12-28 15:12:690 INFO  ManageBrowser :32 - launching chrome browser
+2022-12-28 15:12:974 INFO  HomePage :37 - verifying homepage url.
+2022-12-28 15:12:144 INFO  HomePage :46 - hover mouse to menu bar.
+2022-12-28 15:12:03 INFO  HomePage :58 - hover to submenu and click on element.
+2022-12-28 15:12:52 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars For Sale'
+2022-12-28 15:12:168 INFO  SearchCarsPage :53 - select make: 'Nissan'
+2022-12-28 15:12:30 INFO  SearchCarsPage :58 - select model: 'Silvia'
+2022-12-28 15:12:108 INFO  SearchCarsPage :63 - select location: 'QLD - Brisbane'
+2022-12-28 15:12:171 INFO  SearchCarsPage :68 - select priceTo: '30000'
+2022-12-28 15:12:230 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2022-12-28 15:12:379 INFO  SearchCarsResultPage :33 - Verifying make - actual displayed: 'nissan'
+2022-12-28 15:12:379 INFO  SearchCarsResultPage :35 - verifying search results of make from data set: 'Nissan'
+2022-12-28 15:12:397 INFO  SearchCarsResultPage :33 - Verifying make - actual displayed: 'nissan'
+2022-12-28 15:12:397 INFO  SearchCarsResultPage :35 - verifying search results of make from data set: 'Nissan'
+2022-12-28 15:12:252 INFO  ManageBrowser :32 - launching chrome browser
+2022-12-28 15:12:33 INFO  HomePage :37 - verifying homepage url.
+2022-12-28 15:12:192 INFO  HomePage :46 - hover mouse to menu bar.
+2022-12-28 15:12:517 INFO  HomePage :58 - hover to submenu and click on element.
+2022-12-28 15:12:590 INFO  SearchCarsPage :47 - Verifying heading text. 'Used Cars For Sale'
+2022-12-28 15:12:671 INFO  SearchCarsPage :53 - select make: 'Chery'
+2022-12-28 15:12:459 INFO  SearchCarsPage :58 - select model: 'J3'
+2022-12-28 15:12:509 INFO  SearchCarsPage :63 - select location: 'Any Location'
+2022-12-28 15:12:581 INFO  SearchCarsPage :68 - select priceTo: '25000'
+2022-12-28 15:12:519 INFO  SearchCarsPage :73 - clicking on Find my next car button. 
+2022-12-28 15:12:566 INFO  SearchCarsResultPage :42 - actual result: '1 used chery j3 for sale under $25,000'
+2022-12-28 15:12:566 INFO  SearchCarsResultPage :44 - verifying search results of make from data set: 'Chery'
+2022-12-28 15:12:297 INFO  ManageBrowser :32 - launching chrome browser
+2022-12-28 15:12:161 INFO  HomePage :37 - verifying homepage url.
+2022-12-28 15:12:324 INFO  HomePage :46 - hover mouse to menu bar.
+2022-12-28 15:12:682 INFO  HomePage :58 - hover to submenu and click on element.
+2022-12-28 15:12:29 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
+2022-12-28 15:12:579 INFO  ManageBrowser :32 - launching chrome browser
+2022-12-28 15:12:120 INFO  HomePage :37 - verifying homepage url.
+2022-12-28 15:12:348 INFO  HomePage :46 - hover mouse to menu bar.
+2022-12-28 15:12:92 INFO  HomePage :58 - hover to submenu and click on element.
+2022-12-28 15:12:397 INFO  FindDealersResultPage :59 - verifying find dealers url: 'https://www.carsguide.com.au/car-dealers'
